@@ -1,6 +1,6 @@
 # juice_app
 
-A new Flutter project.
+Mini juice app. It tells about some juices and thier benifits
 
 ## Getting Started
 
